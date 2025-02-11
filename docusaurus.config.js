@@ -10,8 +10,8 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Eng IT technical doc",
-  tagline: "All about Eng IT technical doc",
+  title: "Eng IT technical doc12",
+  tagline: "All about Eng IT technical doc123",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
